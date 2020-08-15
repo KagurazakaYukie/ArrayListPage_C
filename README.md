@@ -1,6 +1,7 @@
 # ArrayListPage_C
 
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+附加开源协议：
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/KagurazakaYukie/996/blob/master/996%E5%8D%8F%E8%AE%AE)
 
 这是一个基于动态数组的衍生品，追加页功能
 
